@@ -1,3 +1,0 @@
-function(lombra){
-    lombra.replace
-}
